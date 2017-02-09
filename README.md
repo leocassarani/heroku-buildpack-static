@@ -146,7 +146,7 @@ You can redirect all HTTP requests to HTTPS.
 
 ```
 {
-  "https_only": true
+  "basic_auth": true
 }
 ```
 
