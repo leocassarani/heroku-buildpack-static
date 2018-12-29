@@ -156,7 +156,7 @@ You can enable Basic Authentication so all requests require authentication.
 
 ```
 {
-  "https_only": true
+  "basic_auth": true
 }
 ```
 
